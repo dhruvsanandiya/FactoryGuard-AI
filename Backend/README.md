@@ -1,6 +1,7 @@
+<div align="center">
+
 # 🏭 FactoryGuard AI - Backend Documentation
 
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Framework-Flask-red.svg)
